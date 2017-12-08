@@ -1,5 +1,5 @@
 {
-  "name": "json-rpc-engine",
+  "name": "json-rpc-engine-es5",
   "version": "3.4.0",
   "description": "a tool for processing JSON RPC",
   "main": "dist/index.js",
@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kumavis/json-rpc-engine.git"
+    "url": "git+https://github.com/youtweakit/json-rpc-engine.git"
   },
   "bugs": {
     "url": "https://github.com/kumavis/json-rpc-engine/issues"
